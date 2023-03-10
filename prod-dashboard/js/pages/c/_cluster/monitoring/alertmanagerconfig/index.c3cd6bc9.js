@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/c/_cluster/monitoring/alertmanagerconfig/index"],{3535:function(n,e,t){},"424c":function(n,e,t){"use strict";t("3535")},"9934d":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("AlertmanagerConfig")])},c=[],r={name:"AlertmanagerConfig",data:function(){return{}}},i=r,o=(t("424c"),t("0c7c")),u=Object(o["a"])(i,a,c,!1,null,"e1b4da68",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=index.c3cd6bc9.js.map

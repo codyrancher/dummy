@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/c/_cluster/auth/roles/_resource/create"],{b4ff:function(e,c,t){"use strict";t.r(c);var r=function(){var e=this,c=e.$createElement,t=e._self._c||c;return t("ResourceDetail")},s=[],n=t("c854"),a={name:"RolesResourceCreate",components:{ResourceDetail:n["a"]}},o=a,u=t("0c7c"),l=Object(u["a"])(o,r,s,!1,null,null,null);c["default"]=l.exports}}]);
+//# sourceMappingURL=create.699b027a.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/safeMode"],{"9f45":function(e,s,t){"use strict";t.r(s);var n,o,a={middleware:function(e){var s=e.redirect,t=e.store,n={name:"home"},o=t.getters["i18n/t"];return setTimeout((function(){t.dispatch("growl/success",{title:o("plugins.safeMode.title"),message:o("plugins.safeMode.message")},{root:!0})}),1e3),s(n)}},i=a,r=t("0c7c"),u=Object(r["a"])(i,n,o,!1,null,null,null);s["default"]=u.exports}}]);
+//# sourceMappingURL=safeMode.0498d8a8.js.map

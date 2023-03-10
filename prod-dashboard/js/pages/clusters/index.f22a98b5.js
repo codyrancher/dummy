@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/clusters/index"],{"0067":function(e,t,c){"use strict";c.r(t);var r,s,u=c("5bbf"),l={fetch:function(e){var t=e.store,c=e.redirect,r=t.getters["defaultClusterId"];c(r?{name:"c-cluster",params:{cluster:r}}:{name:"c-cluster-product",params:{cluster:"local",product:u["NAME"]}})}},a=l,n=c("0c7c"),o=Object(n["a"])(a,r,s,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=index.f22a98b5.js.map

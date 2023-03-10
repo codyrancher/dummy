@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/c/_cluster/monitoring/monitor/_namespace/_id"],{"221a":function(e,r,t){"use strict";t.r(r);var c=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("ResourceDetail",{attrs:{"resource-override":e.resource}})},n=[],o=t("c854"),u={name:"RouteReceiverCreate",components:{ResourceDetail:o["a"]},data:function(){var e=this.$route.query.resource;return{resource:e}}},a=u,s=t("0c7c"),i=Object(s["a"])(a,c,n,!1,null,null,null);r["default"]=i.exports}}]);
+//# sourceMappingURL=_id.5df07dd4.js.map
