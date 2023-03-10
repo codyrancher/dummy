@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/docs/toc"],{e058:function(e,n,t){"use strict";t.r(n),t.d(n,"generateToc",(function(){return c}));t("8be0"),t("38aa"),t("b667"),t("6102"),t("ddc0");var a=/^(#+)\s(.*)/;function c(e){var n=[],t=e.split("\n");return t.forEach((function(e){var t=e.match(a);if(t&&3===t.length){var c=t[1].length,o=t[2],r=o.toLowerCase().replace(/[^\w]+/g,"-");n.push({depth:c,id:r,text:o})}})),n}}}]);
+//# sourceMappingURL=toc.992056c4.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/c/_cluster/_product/index"],{ed1b:function(t,e,r){"use strict";r.r(e);var u=function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",[t._v(" Default dashboard for "+t._s(t.product)+" ")])},c=[],n={computed:{product:function(){return this.$route.params.product}}},o=n,s=r("0c7c"),a=Object(s["a"])(o,u,c,!1,null,null,null);e["default"]=a.exports}}]);
+//# sourceMappingURL=index.797b9002.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages/account/create-key"],{"35f3":function(e,r,t){"use strict";t.r(r);var n=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("ResourceDetail",{attrs:{"store-override":"rancher","resource-override":"token","parent-route-override":"account"}})},a=[],c=t("c854"),o={name:"APIKeyCreate",layout:"plain",components:{ResourceDetail:c["a"]}},u=o,s=t("0c7c"),l=Object(s["a"])(u,n,a,!1,null,null,null);r["default"]=l.exports}}]);
+//# sourceMappingURL=create-key.dd322f7e.js.map
